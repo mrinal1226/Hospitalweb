@@ -1,0 +1,52 @@
+#about{
+
+  background:  rgb(216, 242, 250);
+  padding-bottom: 5rem;
+}
+.container {
+  text-align: center;
+  position: relative;
+}
+
+.container > h4 {
+  color: darkturquoise;
+  margin-bottom: 1.5rem;
+  padding-top: 1.5rem;
+}
+.container > h1 {
+  color: rgb(78, 69, 69);
+  font-size: 2.5rem;
+  font-style: bold;
+}
+.par {
+  background:  rgb(216, 242, 250);
+  margin-top: 5rem;
+  height: 25rem;
+  width: 100%;
+  display: flex;
+  height: 63vh;
+}
+.child1 {
+  margin-top: 1.25rem;
+  margin-left: 4.1rem;
+  height: 25rem;
+  width: 33.3%;
+}
+.child1 img {
+  margin-bottom: 4rem;
+  margin-left: 7rem;
+  height: 9.38rem;
+  width: 9.38rem;
+} 
+
+.child1 > h4 {
+  text-align: center;
+  margin-top: 0.6rem;
+  color: rgb(98, 95, 95);
+}
+
+.child1 > p {
+  color: rgb(177, 173, 173);
+  text-align: center;
+  font-size: larger;
+}
